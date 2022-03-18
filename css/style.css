@@ -246,3 +246,17 @@ a.second_content_button_link:hover, a.second_content_button_link:active {
     color: rgb(41, 41, 100);
     text-decoration: none;
 }
+
+.fifth_content_center_position::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+/* footer */
+
+.footer {
+    margin: 0;
+    clear: none;
+    background-color: brown;
+}
