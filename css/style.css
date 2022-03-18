@@ -216,3 +216,33 @@ a.second_content_button_link:hover, a.second_content_button_link:active {
     text-align: center;
     color: azure;
 }
+
+/*fifth_content*/ 
+
+.fifth_content {
+    margin: auto;
+    padding: 35px 0 0 0;    
+}
+
+.fifth_content_center_position {
+
+}
+
+.img_gift_cards {
+    float: left;
+    max-height: 250px;
+    width: auto;
+    display: block;
+    
+}
+
+.fifth_content_text_div {
+    max-width: 550px;
+    display: block;
+    float: left;
+}
+
+.fifth_content_link {
+    color: rgb(41, 41, 100);
+    text-decoration: none;
+}
