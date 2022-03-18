@@ -189,5 +189,30 @@ a.second_content_button_link:hover, a.second_content_button_link:active {
 .img_box_third_content {
     margin: auto;
     width: fit-content;
-    
+}
+
+.img_ipad_with_pan {
+    max-height: 450px;
+    width: auto;
+}
+
+
+/*fourth_content*/ 
+
+.fourth_content {
+    background-image: url('../img/night_star_sky.jpg');
+    width: 100%;
+    height: 350px;
+}
+
+.fourth_content_head {
+    margin-top: 0;
+    text-align: center;
+    padding: 70px 0 0 0;
+    color: azure;
+}
+
+.fourth_content_text {
+    text-align: center;
+    color: azure;
 }
